@@ -35,6 +35,7 @@
  + `@material-ui`
  +  `Axios`
  + `Bootstrap`
+ + `React`
 
 ### Back-end
 
