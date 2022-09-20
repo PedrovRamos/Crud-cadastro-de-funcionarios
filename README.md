@@ -13,7 +13,7 @@
   1. Altere sua base de dados mySQL em `server/index.js`
   2. `$ cd server`
   3. `$ npm install` ou `$ yarn`
-  4. `$ npm rum devStart`
+  4. `$ npm run dev`
   
 ## Funcionalidades
 
