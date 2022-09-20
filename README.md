@@ -22,6 +22,11 @@
   + Atualiza funcionários no banco de dados
   + Remove funcionários do banco de dados
   + Possui card interativo para editar ou remover funcionários do banco de dados
+  + Cadastra cargos no banco de dados
+  + Lê cargos do banco de dados
+  + Atualiza cargos no banco de dados
+  + Remove cargos do banco de dados
+  + Possui card interativo para editar ou remover cargos do banco de dados
   
 ## Bibliotecas utilizadas
 
